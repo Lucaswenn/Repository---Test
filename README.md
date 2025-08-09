@@ -1,1 +1,2 @@
-Min resa till ett bra repository
+Mitt första repository  
+Lär mig grunder och lätta projekt 
